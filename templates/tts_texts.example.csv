@@ -1,0 +1,11 @@
+audio_id,unit,lesson,activity,type,speed,en_text,he_text,en_file,he_file,notes
+"fb_correct_01","0","0","global","feedback","normal","Great job!","כל הכבוד!","fb_correct_01_en.mp3","fb_correct_01_he.mp3","warm, excited"
+"fb_correct_02","0","0","global","feedback","normal","You got it!","הצלחת!","fb_correct_02_en.mp3","fb_correct_02_he.mp3","happy"
+"fb_effort_01","0","0","global","feedback","normal","You worked so hard on that!","התאמצת ממש יפה!","fb_effort_01_en.mp3","fb_effort_01_he.mp3","praise the effort; Hebrew is the same for both genders, so no _f/_m split"
+"fb_retry_01","0","0","global","feedback","normal","Almost! Try again.","כמעט! עוד ניסיון אחד.","fb_retry_01_en.mp3","fb_retry_01_he.mp3","gentle, encouraging, never disappointed"
+"u01_l01_word_apple","1","1","Listen & Tap","word","normal","apple","תפוח","u01_l01_word_apple_en.mp3","u01_l01_word_apple_he.mp3",""
+"u01_l01_word_apple_slow","1","1","Listen & Tap","word","slow","apple","","u01_l01_word_apple_slow_en.mp3","","slow, clear vowels"
+"u01_l01_sent_ilike_apples","1","1","Sentence Builder","sentence","normal","I like apples.","אני אוהבת תפוחים.","u01_l01_sent_ilike_apples_en.mp3","u01_l01_sent_ilike_apples_he.mp3","translation in female form; add a _m row if the child profile is male"
+"u01_l01_instr_tap_f","1","1","Listen & Tap","instruction","normal","Listen and tap the right picture.","הקשיבי ולחצי על התמונה הנכונה.","u01_l01_instr_tap_f_en.mp3","u01_l01_instr_tap_f_he.mp3","female form"
+"u01_l01_instr_tap_m","1","1","Listen & Tap","instruction","normal","Listen and tap the right picture.","הקשב ולחץ על התמונה הנכונה.","u01_l01_instr_tap_m_en.mp3","u01_l01_instr_tap_m_he.mp3","male form"
+"ls_b","0","0","Sound Hunt","letter_sound","slow","buh","","ls_b_en.mp3","","target phoneme /b/ — short, clipped, no long vowel after"
